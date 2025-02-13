@@ -1,10 +1,16 @@
 Atmosphere Review System:
 
-An application where users can submit an overall review of sporting events they have been to, like a match of football or basketball. Users will be able to review certain facets of the events such as atmosphere, service, quality of play, etc. out of five stars. To incentivize reviews with more substance, users will receive more "contribution points" for more substantial reviews (by adding pictures, writing more, etc.).  These points will make the users' review appear further up. Other users can also like reviews by other users. In addition, clubs can get an overall "atmosphere score" on previously mentioned facets of the game by the star reviews given by the users. 
+An application where users can submit an overall review of sporting events they have been to, like a match of football or basketball. Users will be able to review certain facets of the events such as atmosphere, service,
+quality of play, etc. out of five stars. To incentivize reviews with more substance, users will receive more "contribution points" for more substantial reviews (by adding pictures, writing more, etc.).  These points will
+make the users' review appear further up. Other users can also like reviews by other users. In addition, clubs can get an overall "atmosphere score" on previously mentioned facets of the game by the star reviews given by
+the users. 
 
 Smart City System:
 
-An application where users can notify certain issues such as gas leaks, power outages, water outages, fires, and so forth. Users can give details of said issues by commenting as well. If a set location has exceeded a certain amount of such notifications, authorities concerned with the issue will be automatically notified. Using the map of the city, citizens can see where these issues have been reported. They can also see where the other users of the application are. In tandem, users will receive notifications on which issues have been reported within a certain radius of their current location, and they can choose to "push" those events to make them gain more traction and draw more attention to it.
+An application where users can notify certain issues such as gas leaks, power outages, water outages, fires, and so forth. Users can give details of said issues by commenting as well. If a set location has exceeded a
+certain amount of such notifications, authorities concerned with the issue will be automatically notified. Using the map of the city, citizens can see where these issues have been reported. They can also see where the
+other users of the application are. In tandem, users will receive notifications on which issues have been reported within a certain radius of their current location, and they can choose to "push" those events to make them
+gain more traction and draw more attention to it.
 
 Fortune Teller (idk probably not):
 
@@ -12,11 +18,17 @@ Disaster Relief Coordination Platform:
 
 Yatırım Tavsiyesi Değildir / Stockbroker:
 
-A simulation game where the user decides to enter an imaginary stock market. The beginning tutorial will include a basic overview of stock behaviour and stock exchange terms (bull, hedge, etc.) which will share a degree of applicability with the real world stock market as well. In this simulation game, the user has 365 in-game days to diversify their portfolio and increase their wealth as much as possible. The user can modify their portfolio by buying stocks, selling stocks, or trading stocks. A wide variety of stocks will be available to the user, alongside their graphs. The user can progress through the days by clicking a "continue" button, after they have made actions. Randomly generated events may occur during some days wherein the user must respond by modifying their portfolio. At the end of their campaign, the user will receive a score.
+A simulation game where the user decides to enter an imaginary stock market. The beginning tutorial will include a basic overview of stock behaviour and stock exchange terms (bull, hedge, etc.) which will share a degree
+of applicability with the real world stock market as well. In this simulation game, the user has 365 in-game days to diversify their portfolio and increase their wealth as much as possible. The user can modify their
+portfolio by buying stocks, selling stocks, or trading stocks. A wide variety of stocks will be available to the user, alongside their graphs. The user can progress through the days by clicking a "continue" button, after
+they have made actions. Randomly generated events may occur during some days wherein the user must respond by modifying their portfolio. At the end of their campaign, the user will receive a score.
 
 Something About Education:
 
-An education-centered application which will include visual explanation of high-school level subjects, like maths, biology, geometry, and so forth. Users will be able to view the topics in order of increasing difficulty, then  and solve varying types of questions. Users will also be able to mark certain subjects as "more challenging", which will lead to an increased focus on these subjects. To incentivize further learning, once the user has completed all the questions for a certain topic, it will be "completed" and the user will receive a score. This score will apply for both the topic and the overall curriculum. 
+An education-centered application which will include visual explanation of high-school level subjects, like maths, biology, geometry, and so forth. Users will be able to view the topics in order of increasing difficulty,
+then  and solve varying types of questions. Users will also be able to mark certain subjects as "more challenging", which will lead to an increased focus on these subjects. To incentivize further learning, once the user
+has completed all the questions for a certain topic, it will be "completed" and the user will receive a score. This score will apply for both the topic and the overall curriculum.
+
 
 Digital Witness:
 
