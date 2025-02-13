@@ -10,7 +10,13 @@ Smart City System:
 An application where users can notify certain issues such as gas leaks, power outages, water outages, fires, and so forth. Users can give details of said issues by commenting as well. If a set location has exceeded a
 certain amount of such notifications, authorities concerned with the issue will be automatically notified. Using the map of the city, citizens can see where these issues have been reported. They can also see where the
 other users of the application are. In tandem, users will receive notifications on which issues have been reported within a certain radius of their current location, and they can choose to "push" those events to make them
-gain more traction and draw more attention to it.
+gain more traction and draw more attention to it. During natural disasters, the application will also retain functionality by notifying users which issues are likely to be had. 
+
+Something About Education:
+
+An education-centered application which will include visual explanation of high-school level subjects, like maths, biology, geometry, and so forth. Users will be able to view the topics in order of increasing difficulty,
+then  and solve varying types of questions. Users will also be able to mark certain subjects as "more challenging", which will lead to an increased focus on these subjects. To incentivize further learning, once the user
+has completed all the questions for a certain topic, it will be "completed" and the user will receive a score. This score will apply for both the topic and the overall curriculum.
 
 Fortune Teller (idk probably not):
 
@@ -23,14 +29,11 @@ of applicability with the real world stock market as well. In this simulation ga
 portfolio by buying stocks, selling stocks, or trading stocks. A wide variety of stocks will be available to the user, alongside their graphs. The user can progress through the days by clicking a "continue" button, after
 they have made actions. Randomly generated events may occur during some days wherein the user must respond by modifying their portfolio. At the end of their campaign, the user will receive a score.
 
-Something About Education:
 
-An education-centered application which will include visual explanation of high-school level subjects, like maths, biology, geometry, and so forth. Users will be able to view the topics in order of increasing difficulty,
-then  and solve varying types of questions. Users will also be able to mark certain subjects as "more challenging", which will lead to an increased focus on these subjects. To incentivize further learning, once the user
-has completed all the questions for a certain topic, it will be "completed" and the user will receive a score. This score will apply for both the topic and the overall curriculum.
 
 
 Digital Witness:
 
 Horror Game(s? idk):
+A horrro game that takes place in a single place with known total are floaarplane, but as the game continues in tthat same total floor plan area rooms location and existince changes. When a no player in a single rom that room can diseapear or can merge with othher rooms and change its shape. Maybe a mystry solving horror game format or a hide n seek/chasing game. 
 
